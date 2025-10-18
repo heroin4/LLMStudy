@@ -211,7 +211,6 @@ transformer-implementation/
 ## 📚 参考资料
 
 - 论文: [Attention is All You Need](https://arxiv.org/abs/1706.03762)
-- 作者: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 - 发表: NIPS 2017
 
 ## 💡 应用场景
